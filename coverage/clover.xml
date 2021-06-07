@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1623084981323" clover="3.2.0">
-  <project timestamp="1623084981324" name="All files">
-    <metrics statements="18" coveredstatements="18" conditionals="12" coveredconditionals="10" methods="6" coveredmethods="6" elements="36" coveredelements="34" complexity="0" loc="18" ncloc="18" packages="1" files="3" classes="3"/>
+<coverage generated="1623087284864" clover="3.2.0">
+  <project timestamp="1623087284866" name="All files">
+    <metrics statements="24" coveredstatements="24" conditionals="14" coveredconditionals="12" methods="8" coveredmethods="8" elements="46" coveredelements="44" complexity="0" loc="24" ncloc="24" packages="1" files="4" classes="4"/>
     <file name="calc.js" path="/workspaces/vanilla-jest/src/app/calc.js">
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
       <line num="4" count="1" type="stmt"/>
@@ -28,6 +28,15 @@
       <line num="30" count="2" type="cond" truecount="2" falsecount="0"/>
       <line num="31" count="1" type="stmt"/>
       <line num="33" count="1" type="stmt"/>
+    </file>
+    <file name="palindrome-checker.js" path="/workspaces/vanilla-jest/src/app/palindrome-checker.js">
+      <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <line num="9" count="2" type="stmt"/>
+      <line num="10" count="2" type="stmt"/>
+      <line num="16" count="2" type="stmt"/>
+      <line num="19" count="2" type="stmt"/>
+      <line num="22" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="23" count="2" type="stmt"/>
     </file>
   </project>
 </coverage>
